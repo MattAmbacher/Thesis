@@ -1,0 +1,1753 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.9)  12 AUG 2017 13:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**MattAmbacherMMathThesis.tex
+(./MattAmbacherMMathThesis.tex
+LaTeX2e <2016/02/01>
+Babel <3.9o> and hyphenation patterns for 80 language(s) loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count88
+\output=\toks14
+\linenoprevgraf=\count89
+\linenumbersep=\dimen103
+\linenumberwidth=\dimen104
+\c@linenumber=\count90
+\c@pagewiselinenumber=\count91
+\c@LN@truepage=\count92
+\c@internallinenumber=\count93
+\c@internallinenumbers=\count94
+\quotelinenumbersep=\dimen105
+\bframerule=\dimen106
+\bframesep=\dimen107
+\bframebox=\box26
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count95
+\float@exts=\toks15
+\float@box=\box27
+\@float@everytoks=\toks16
+\@floatcapt=\box28
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen108
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen109
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen110
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks18
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks19
+\eqnshift@=\dimen111
+\alignsep@=\dimen112
+\tagshift@=\dimen113
+\tagwidth@=\dimen114
+\totwidth@=\dimen115
+\lineht@=\dimen116
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen117
+\pgfutil@tempdimb=\dimen118
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box31
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count108
+))
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen121
+\pgf@y=\dimen122
+\pgf@xa=\dimen123
+\pgf@ya=\dimen124
+\pgf@xb=\dimen125
+\pgf@yb=\dimen126
+\pgf@xc=\dimen127
+\pgf@yc=\dimen128
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count109
+\c@pgf@countb=\count110
+\c@pgf@countc=\count111
+\c@pgf@countd=\count112
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count113
+\pgfsyssoftpath@bigbuffer@items=\count114
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen129
+\pgfmath@count=\count115
+\pgfmath@box=\box32
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count116
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen130
+\pgf@picmaxx=\dimen131
+\pgf@picminy=\dimen132
+\pgf@picmaxy=\dimen133
+\pgf@pathminx=\dimen134
+\pgf@pathmaxx=\dimen135
+\pgf@pathminy=\dimen136
+\pgf@pathmaxy=\dimen137
+\pgf@xx=\dimen138
+\pgf@xy=\dimen139
+\pgf@yx=\dimen140
+\pgf@yy=\dimen141
+\pgf@zx=\dimen142
+\pgf@zy=\dimen143
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen144
+\pgf@path@lasty=\dimen145
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen146
+\pgf@shorten@start@additional=\dimen147
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count117
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen148
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen149
+\pgf@pt@y=\dimen150
+\pgf@pt@temp=\dimen151
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen152
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen153
+\pgf@sys@shading@range@num=\count118
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box36
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box37
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen154
+\pgf@nodesepend=\dimen155
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen156
+\pgffor@skip=\dimen157
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count119
+\pgfplotmarksize=\dimen158
+)
+\tikz@lastx=\dimen159
+\tikz@lasty=\dimen160
+\tikz@lastxsaved=\dimen161
+\tikz@lastysaved=\dimen162
+\tikzleveldistance=\dimen163
+\tikzsiblingdistance=\dimen164
+\tikz@figbox=\box38
+\tikz@figbox@bg=\box39
+\tikz@tempbox=\box40
+\tikz@tempbox@bg=\box41
+\tikztreelevel=\count120
+\tikznumberofchildren=\count121
+\tikznumberofcurrentchild=\count122
+\tikz@fig@count=\count123
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count124
+\pgfmatrixcurrentcolumn=\count125
+\pgf@matrix@numberofcolumns=\count126
+)
+\tikz@expandcount=\count127
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen165
+\Hy@linkcounter=\count128
+\Hy@pagecounter=\count129
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count130
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `final' set `true' on input line 4319.
+
+
+Package hyperref Warning: Option `letterpaper' is no longer used.
+
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+LaTeX Info: Redefining \href on input line 4952.
+\c@Hy@tempcnt=\count131
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen166
+\Fld@menulength=\count132
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count133
+\c@Item=\count134
+\c@Hfootnote=\count135
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count136
+\c@bookmark@seq@number=\count137
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip46
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip47
+\afterepigraphskip=\skip48
+\epigraphwidth=\skip49
+\epigraphrule=\skip50
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 124.
+
+
+Package hyperref Warning: Option `pdfpagelabels' has already been used,
+(hyperref)                setting the option has no effect on input line 124.
+
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 124.
+
+Package hyperref Info: Option `unicode' set `false' on input line 124.
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 124.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 124.
+Package hyperref Info: Option `pdffitwindow' set `false' on input line 124.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 124.
+Package hyperref Info: Option `colorlinks' set `true' on input line 124.
+(./MattAmbacherMMathThesis.aux)
+\openout1 = `MattAmbacherMMathThesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 180.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 180.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 180.
+
+ABD: EveryShipout initializing macros
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count138
+\scratchdimen=\dimen169
+\scratchbox=\box42
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen170
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks36
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box43
+Package hyperref Info: Link coloring ON on input line 180.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count144
+)
+LaTeX Info: Redefining \ref on input line 180.
+LaTeX Info: Redefining \pageref on input line 180.
+LaTeX Info: Redefining \nameref on input line 180.
+
+(./MattAmbacherMMathThesis.out) (./MattAmbacherMMathThesis.out)
+\@outlinefile=\write4
+\openout4 = `MattAmbacherMMathThesis.out'.
+
+\symgns@font=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 180.
+Package gensymb Info: Math companion symbols declared on input line 180.
+LaTeX Info: Redefining \degree on input line 180.
+LaTeX Info: Redefining \celsius on input line 180.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 180.
+LaTeX Info: Redefining \ohm on input line 180.
+Package gensymb Info: Using \textohm for \ohm on input line 180.
+Package gensymb Info: Using \textmu for \micro on input line 180.
+
+(./FrontPages/uw-ethesis-frontpgs.tex [1
+
+
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+
+]
+LaTeX Font Info:    Try loading font information for U+msa on input line 78.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 78.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+[3
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+[4
+
+
+] [5
+
+
+] (./MattAmbacherMMathThesis.toc [6
+
+
+
+
+])
+\tf@toc=\write5
+\openout5 = `MattAmbacherMMathThesis.toc'.
+
+ [7] (./MattAmbacherMMathThesis.lot)
+\tf@lot=\write6
+\openout6 = `MattAmbacherMMathThesis.lot'.
+
+[8
+
+
+
+
+] (./MattAmbacherMMathThesis.lof [9
+
+
+
+
+] [10] [11]
+Overfull \hbox (6.72813pt too wide) in paragraph at lines 42--42
+ [][] [][][]\OT1/cmr/m/n/12 The mesoscale spec-tra slopes of the geostrophic (s
+olid), ageostrophic (dashed), 
+ []
+
+[12]
+Overfull \hbox (35.03664pt too wide) in paragraph at lines 47--47
+ [][] [][][]\OT1/cmr/m/n/12 The first 30 ver-ti-cal modes summed to-gether (geo
+strophic, black solid; ageostrophic, 
+ []
+
+)
+\tf@lof=\write7
+\openout7 = `MattAmbacherMMathThesis.lof'.
+
+ [13]) (./Chapter1/Ch1.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+[1
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+[3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
+
+ []
+
+[8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+[10] [11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+
+ []
+
+) (./Chapter2/Ch2.tex [13] [14]
+Chapter 2.
+[15
+
+
+] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+[19] <./Chapter2/img/normalmodes.pdf, id=810, 433.62pt x 234.8775pt>
+File: ./Chapter2/img/normalmodes.pdf Graphic file (type pdf)
+
+<use ./Chapter2/img/normalmodes.pdf>
+Package pdftex.def Info: ./Chapter2/img/normalmodes.pdf used on input line 124.
+
+(pdftex.def)             Requested size: 433.61894pt x 234.87692pt.
+ [20]
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+[21 <./Chapter2/img/normalmodes.pdf>] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
+
+ []
+
+[23] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 253--255
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+) (./Chapter3/Ch3.tex [26] [27]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+[28
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+[29] <Chapter3/img/initialVelVort.pdf, id=943, 460.72125pt x 578.16pt>
+File: Chapter3/img/initialVelVort.pdf Graphic file (type pdf)
+
+<use Chapter3/img/initialVelVort.pdf>
+Package pdftex.def Info: Chapter3/img/initialVelVort.pdf used on input line 44.
+
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+ [30]
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[31 <./Chapter3/img/initialVelVort.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+[32] <Chapter3/img/initialGeo.pdf, id=1069, 460.72125pt x 289.08pt>
+File: Chapter3/img/initialGeo.pdf Graphic file (type pdf)
+
+<use Chapter3/img/initialGeo.pdf>
+Package pdftex.def Info: Chapter3/img/initialGeo.pdf used on input line 83.
+(pdftex.def)             Requested size: 460.72012pt x 289.07928pt.
+
+<Chapter3/img/tempBuoy.pdf, id=1070, 433.62pt x 289.08pt>
+File: Chapter3/img/tempBuoy.pdf Graphic file (type pdf)
+
+<use Chapter3/img/tempBuoy.pdf>
+Package pdftex.def Info: Chapter3/img/tempBuoy.pdf used on input line 91.
+(pdftex.def)             Requested size: 433.61894pt x 289.07928pt.
+ [33 <./Chapter3/img/initialGeo.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+[34 <./Chapter3/img/tempBuoy.pdf>]
+<Chapter3/img/initialGeoDouble.pdf, id=1209, 460.72125pt x 289.08pt>
+File: Chapter3/img/initialGeoDouble.pdf Graphic file (type pdf)
+
+<use Chapter3/img/initialGeoDouble.pdf>
+Package pdftex.def Info: Chapter3/img/initialGeoDouble.pdf used on input line 1
+06.
+(pdftex.def)             Requested size: 460.72012pt x 289.07928pt.
+
+<Chapter3/img/initialVelVortDouble.pdf, id=1210, 460.72125pt x 578.16pt>
+File: Chapter3/img/initialVelVortDouble.pdf Graphic file (type pdf)
+
+<use Chapter3/img/initialVelVortDouble.pdf>
+Package pdftex.def Info: Chapter3/img/initialVelVortDouble.pdf used on input li
+ne 112.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+ [35 <./Chapter3/img/initialGeoDouble.pdf>]
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[36 <./Chapter3/img/initialVelVortDouble.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--161
+
+ []
+
+[38] <Chapter3/img/front.pdf, id=1448, 460.72125pt x 225.84375pt>
+File: Chapter3/img/front.pdf Graphic file (type pdf)
+
+<use Chapter3/img/front.pdf>
+Package pdftex.def Info: Chapter3/img/front.pdf used on input line 166.
+(pdftex.def)             Requested size: 460.72012pt x 225.84319pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--167
+
+ []
+
+<Chapter3/img/squall.pdf, id=1449, 460.72125pt x 225.84375pt>
+File: Chapter3/img/squall.pdf Graphic file (type pdf)
+
+<use Chapter3/img/squall.pdf>
+Package pdftex.def Info: Chapter3/img/squall.pdf used on input line 169.
+(pdftex.def)             Requested size: 460.72012pt x 225.84319pt.
+ [39]
+<Chapter3/img/vortTimeSeries.pdf, id=1456, 460.72125pt x 578.16pt>
+File: Chapter3/img/vortTimeSeries.pdf Graphic file (type pdf)
+
+<use Chapter3/img/vortTimeSeries.pdf>
+Package pdftex.def Info: Chapter3/img/vortTimeSeries.pdf used on input line 176
+.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+ [40 <./Chapter3/img/front.pdf> <./Chapter3/img/squall.pdf>]
+Overfull \vbox (114.4919pt too high) has occurred while \output is active []
+
+
+[41 <./Chapter3/img/vortTimeSeries.pdf>]
+<Chapter3/img/div.pdf, id=1744, 460.72125pt x 560.0925pt>
+File: Chapter3/img/div.pdf Graphic file (type pdf)
+
+<use Chapter3/img/div.pdf>
+Package pdftex.def Info: Chapter3/img/div.pdf used on input line 183.
+(pdftex.def)             Requested size: 460.72012pt x 560.09113pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+[][]
+ []
+
+
+Overfull \vbox (113.76988pt too high) has occurred while \output is active []
+
+
+[42 <./Chapter3/img/div.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+[43] <Chapter3/img/tke.pdf, id=1865, 460.72125pt x 289.08pt>
+File: Chapter3/img/tke.pdf Graphic file (type pdf)
+
+<use Chapter3/img/tke.pdf>
+Package pdftex.def Info: Chapter3/img/tke.pdf used on input line 218.
+(pdftex.def)             Requested size: 460.72012pt x 289.07928pt.
+) (./Chapter4/Ch4.tex [44 <./Chapter3/img/tke.pdf>]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+[45
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+<Chapter4/img/GeoAgeoBarotropic.pdf, id=1909, 460.72125pt x 578.16pt>
+File: Chapter4/img/GeoAgeoBarotropic.pdf Graphic file (type pdf)
+
+<use Chapter4/img/GeoAgeoBarotropic.pdf>
+Package pdftex.def Info: Chapter4/img/GeoAgeoBarotropic.pdf used on input line 
+17.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+[][]
+ []
+
+[46]
+Overfull \vbox (29.6809pt too high) has occurred while \output is active []
+
+
+[47 <./Chapter4/img/GeoAgeoBarotropic.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+<Chapter4/img/GeoAgeo_RKEDKE_1-3.pdf, id=1952, 460.72125pt x 578.16pt>
+File: Chapter4/img/GeoAgeo_RKEDKE_1-3.pdf Graphic file (type pdf)
+
+<use Chapter4/img/GeoAgeo_RKEDKE_1-3.pdf>
+Package pdftex.def Info: Chapter4/img/GeoAgeo_RKEDKE_1-3.pdf used on input line
+ 28.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+ [48]
+Overfull \vbox (100.65858pt too high) has occurred while \output is active []
+
+
+[49 <./Chapter4/img/GeoAgeo_RKEDKE_1-3.pdf>]
+<Chapter4/img/GeoAgeo_RKEDKE_5-7.pdf, id=1992, 460.72125pt x 578.16pt>
+File: Chapter4/img/GeoAgeo_RKEDKE_5-7.pdf Graphic file (type pdf)
+
+<use Chapter4/img/GeoAgeo_RKEDKE_5-7.pdf>
+Package pdftex.def Info: Chapter4/img/GeoAgeo_RKEDKE_5-7.pdf used on input line
+ 34.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[50 <./Chapter4/img/GeoAgeo_RKEDKE_5-7.pdf>]
+<Chapter4/img/GeoAgeo_RKEDKE_9-11.pdf, id=2029, 460.72125pt x 578.16pt>
+File: Chapter4/img/GeoAgeo_RKEDKE_9-11.pdf Graphic file (type pdf)
+
+<use Chapter4/img/GeoAgeo_RKEDKE_9-11.pdf>
+Package pdftex.def Info: Chapter4/img/GeoAgeo_RKEDKE_9-11.pdf used on input lin
+e 40.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[51 <./Chapter4/img/GeoAgeo_RKEDKE_9-11.pdf>]
+<Chapter4/img/GeoAgeo_RKEDKE_13-15.pdf, id=2066, 460.72125pt x 578.16pt>
+File: Chapter4/img/GeoAgeo_RKEDKE_13-15.pdf Graphic file (type pdf)
+
+<use Chapter4/img/GeoAgeo_RKEDKE_13-15.pdf>
+Package pdftex.def Info: Chapter4/img/GeoAgeo_RKEDKE_13-15.pdf used on input li
+ne 46.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[52 <./Chapter4/img/GeoAgeo_RKEDKE_13-15.pdf>]
+<Chapter4/img/GeoAgeo_RKEDKE_17-19.pdf, id=2104, 460.72125pt x 578.16pt>
+File: Chapter4/img/GeoAgeo_RKEDKE_17-19.pdf Graphic file (type pdf)
+
+<use Chapter4/img/GeoAgeo_RKEDKE_17-19.pdf>
+Package pdftex.def Info: Chapter4/img/GeoAgeo_RKEDKE_17-19.pdf used on input li
+ne 52.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[53 <./Chapter4/img/GeoAgeo_RKEDKE_17-19.pdf>]
+<Chapter4/img/GeoAgeo_RKEDKE_21-23.pdf, id=2141, 460.72125pt x 578.16pt>
+File: Chapter4/img/GeoAgeo_RKEDKE_21-23.pdf Graphic file (type pdf)
+
+<use Chapter4/img/GeoAgeo_RKEDKE_21-23.pdf>
+Package pdftex.def Info: Chapter4/img/GeoAgeo_RKEDKE_21-23.pdf used on input li
+ne 58.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[54 <./Chapter4/img/GeoAgeo_RKEDKE_21-23.pdf>]
+<Chapter4/img/GeoAgeo_RKEDKE_25-27.pdf, id=2179, 460.72125pt x 578.16pt>
+File: Chapter4/img/GeoAgeo_RKEDKE_25-27.pdf Graphic file (type pdf)
+
+<use Chapter4/img/GeoAgeo_RKEDKE_25-27.pdf>
+Package pdftex.def Info: Chapter4/img/GeoAgeo_RKEDKE_25-27.pdf used on input li
+ne 64.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[55 <./Chapter4/img/GeoAgeo_RKEDKE_25-27.pdf>]
+<Chapter4/img/GeoAgeo_RKEDKE_29.pdf, id=2216, 460.72125pt x 289.08pt>
+File: Chapter4/img/GeoAgeo_RKEDKE_29.pdf Graphic file (type pdf)
+
+<use Chapter4/img/GeoAgeo_RKEDKE_29.pdf>
+Package pdftex.def Info: Chapter4/img/GeoAgeo_RKEDKE_29.pdf used on input line 
+70.
+(pdftex.def)             Requested size: 460.72012pt x 289.07928pt.
+
+<Chapter4/img/Geo_APERKE_1-3.pdf, id=2223, 460.72125pt x 578.16pt>
+File: Chapter4/img/Geo_APERKE_1-3.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Geo_APERKE_1-3.pdf>
+Package pdftex.def Info: Chapter4/img/Geo_APERKE_1-3.pdf used on input line 80.
+
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+ [56 <./Chapter4/img/GeoAgeo_RKEDKE_29.pdf>]
+Overfull \vbox (97.65858pt too high) has occurred while \output is active []
+
+
+[57 <./Chapter4/img/Geo_APERKE_1-3.pdf>]
+<Chapter4/img/Geo_APERKE_5-7.pdf, id=2293, 460.72125pt x 578.16pt>
+File: Chapter4/img/Geo_APERKE_5-7.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Geo_APERKE_5-7.pdf>
+Package pdftex.def Info: Chapter4/img/Geo_APERKE_5-7.pdf used on input line 86.
+
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (86.15858pt too high) has occurred while \output is active []
+
+
+[58 <./Chapter4/img/Geo_APERKE_5-7.pdf>]
+<Chapter4/img/Geo_APERKE_9-11.pdf, id=2330, 460.72125pt x 578.16pt>
+File: Chapter4/img/Geo_APERKE_9-11.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Geo_APERKE_9-11.pdf>
+Package pdftex.def Info: Chapter4/img/Geo_APERKE_9-11.pdf used on input line 92
+.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (86.15858pt too high) has occurred while \output is active []
+
+
+[59 <./Chapter4/img/Geo_APERKE_9-11.pdf>]
+<Chapter4/img/Geo_APERKE_13-15.pdf, id=2367, 460.72125pt x 578.16pt>
+File: Chapter4/img/Geo_APERKE_13-15.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Geo_APERKE_13-15.pdf>
+Package pdftex.def Info: Chapter4/img/Geo_APERKE_13-15.pdf used on input line 9
+8.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (86.15858pt too high) has occurred while \output is active []
+
+
+[60 <./Chapter4/img/Geo_APERKE_13-15.pdf>]
+<Chapter4/img/Geo_APERKE_17-19.pdf, id=2406, 460.72125pt x 578.16pt>
+File: Chapter4/img/Geo_APERKE_17-19.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Geo_APERKE_17-19.pdf>
+Package pdftex.def Info: Chapter4/img/Geo_APERKE_17-19.pdf used on input line 1
+04.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (86.15858pt too high) has occurred while \output is active []
+
+
+[61 <./Chapter4/img/Geo_APERKE_17-19.pdf>]
+<Chapter4/img/Geo_APERKE_21-23.pdf, id=2443, 460.72125pt x 578.16pt>
+File: Chapter4/img/Geo_APERKE_21-23.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Geo_APERKE_21-23.pdf>
+Package pdftex.def Info: Chapter4/img/Geo_APERKE_21-23.pdf used on input line 1
+10.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (86.15858pt too high) has occurred while \output is active []
+
+
+[62 <./Chapter4/img/Geo_APERKE_21-23.pdf>]
+<Chapter4/img/Geo_APERKE_25-27.pdf, id=2480, 460.72125pt x 578.16pt>
+File: Chapter4/img/Geo_APERKE_25-27.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Geo_APERKE_25-27.pdf>
+Package pdftex.def Info: Chapter4/img/Geo_APERKE_25-27.pdf used on input line 1
+16.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (86.15858pt too high) has occurred while \output is active []
+
+
+[63 <./Chapter4/img/Geo_APERKE_25-27.pdf>]
+<Chapter4/img/Geo_APERKE_29.pdf, id=2518, 460.72125pt x 289.08pt>
+File: Chapter4/img/Geo_APERKE_29.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Geo_APERKE_29.pdf>
+Package pdftex.def Info: Chapter4/img/Geo_APERKE_29.pdf used on input line 122.
+
+(pdftex.def)             Requested size: 460.72012pt x 289.07928pt.
+
+<Chapter4/img/Ageo_APEDKE_1-3.pdf, id=2521, 460.72125pt x 578.16pt>
+File: Chapter4/img/Ageo_APEDKE_1-3.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Ageo_APEDKE_1-3.pdf>
+Package pdftex.def Info: Chapter4/img/Ageo_APEDKE_1-3.pdf used on input line 12
+8.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+ [64 <./Chapter4/img/Geo_APERKE_29.pdf>]
+Overfull \vbox (86.15858pt too high) has occurred while \output is active []
+
+
+[65 <./Chapter4/img/Ageo_APEDKE_1-3.pdf>]
+<Chapter4/img/Ageo_APEDKE_5-7.pdf, id=2590, 460.72125pt x 578.16pt>
+File: Chapter4/img/Ageo_APEDKE_5-7.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Ageo_APEDKE_5-7.pdf>
+Package pdftex.def Info: Chapter4/img/Ageo_APEDKE_5-7.pdf used on input line 13
+4.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[66 <./Chapter4/img/Ageo_APEDKE_5-7.pdf>]
+<Chapter4/img/Ageo_APEDKE_9-11.pdf, id=2628, 460.72125pt x 578.16pt>
+File: Chapter4/img/Ageo_APEDKE_9-11.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Ageo_APEDKE_9-11.pdf>
+Package pdftex.def Info: Chapter4/img/Ageo_APEDKE_9-11.pdf used on input line 1
+40.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[67 <./Chapter4/img/Ageo_APEDKE_9-11.pdf>]
+<Chapter4/img/Ageo_APEDKE_13-15.pdf, id=2666, 460.72125pt x 578.16pt>
+File: Chapter4/img/Ageo_APEDKE_13-15.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Ageo_APEDKE_13-15.pdf>
+Package pdftex.def Info: Chapter4/img/Ageo_APEDKE_13-15.pdf used on input line 
+146.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[68 <./Chapter4/img/Ageo_APEDKE_13-15.pdf>]
+<Chapter4/img/Ageo_APEDKE_17-19.pdf, id=2703, 460.72125pt x 578.16pt>
+File: Chapter4/img/Ageo_APEDKE_17-19.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Ageo_APEDKE_17-19.pdf>
+Package pdftex.def Info: Chapter4/img/Ageo_APEDKE_17-19.pdf used on input line 
+152.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[69 <./Chapter4/img/Ageo_APEDKE_17-19.pdf>]
+<Chapter4/img/Ageo_APEDKE_21-23.pdf, id=2740, 460.72125pt x 578.16pt>
+File: Chapter4/img/Ageo_APEDKE_21-23.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Ageo_APEDKE_21-23.pdf>
+Package pdftex.def Info: Chapter4/img/Ageo_APEDKE_21-23.pdf used on input line 
+158.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[70 <./Chapter4/img/Ageo_APEDKE_21-23.pdf>]
+<Chapter4/img/Ageo_APEDKE_25-27.pdf, id=2777, 460.72125pt x 578.16pt>
+File: Chapter4/img/Ageo_APEDKE_25-27.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Ageo_APEDKE_25-27.pdf>
+Package pdftex.def Info: Chapter4/img/Ageo_APEDKE_25-27.pdf used on input line 
+164.
+(pdftex.def)             Requested size: 460.72012pt x 578.15858pt.
+
+Overfull \vbox (71.65858pt too high) has occurred while \output is active []
+
+
+[71 <./Chapter4/img/Ageo_APEDKE_25-27.pdf>]
+<Chapter4/img/Ageo_APEDKE_29.pdf, id=2815, 460.72125pt x 289.08pt>
+File: Chapter4/img/Ageo_APEDKE_29.pdf Graphic file (type pdf)
+
+<use Chapter4/img/Ageo_APEDKE_29.pdf>
+Package pdftex.def Info: Chapter4/img/Ageo_APEDKE_29.pdf used on input line 170
+.
+(pdftex.def)             Requested size: 460.72012pt x 289.07928pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+Overfull \hbox (33.04408pt too wide) in paragraph at lines 180--217
+[][] 
+ []
+
+[72 <./Chapter4/img/Ageo_APEDKE_29.pdf>]
+<Chapter4/img/slopes.pdf, id=2856, 460.72125pt x 289.08pt>
+File: Chapter4/img/slopes.pdf Graphic file (type pdf)
+
+<use Chapter4/img/slopes.pdf>
+Package pdftex.def Info: Chapter4/img/slopes.pdf used on input line 222.
+(pdftex.def)             Requested size: 460.72012pt x 289.07928pt.
+ [73]
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+<Chapter4/img/modal_energy.pdf, id=2865, 460.72125pt x 234.8775pt>
+File: Chapter4/img/modal_energy.pdf Graphic file (type pdf)
+
+<use Chapter4/img/modal_energy.pdf>
+Package pdftex.def Info: Chapter4/img/modal_energy.pdf used on input line 232.
+(pdftex.def)             Requested size: 460.72012pt x 234.87692pt.
+
+<Chapter4/img/modal_energy_nobaro.pdf, id=2866, 460.72125pt x 234.8775pt>
+File: Chapter4/img/modal_energy_nobaro.pdf Graphic file (type pdf)
+
+<use Chapter4/img/modal_energy_nobaro.pdf>
+Package pdftex.def Info: Chapter4/img/modal_energy_nobaro.pdf used on input lin
+e 238.
+(pdftex.def)             Requested size: 460.72012pt x 234.87692pt.
+ [74 <./Chapter4/img/slopes.pdf>]
+<Chapter4/img/meso_GeoAgeo.pdf, id=2874, 460.72125pt x 289.08pt>
+File: Chapter4/img/meso_GeoAgeo.pdf Graphic file (type pdf)
+
+<use Chapter4/img/meso_GeoAgeo.pdf>
+Package pdftex.def Info: Chapter4/img/meso_GeoAgeo.pdf used on input line 245.
+(pdftex.def)             Requested size: 460.72012pt x 289.07928pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--247
+[][]
+ []
+
+[75 <./Chapter4/img/modal_energy.pdf> <./Chapter4/img/modal_energy_nobaro.pdf>]
+<Chapter4/img/meso_KEPE.pdf, id=2883, 460.72125pt x 289.08pt>
+File: Chapter4/img/meso_KEPE.pdf Graphic file (type pdf)
+
+<use Chapter4/img/meso_KEPE.pdf>
+Package pdftex.def Info: Chapter4/img/meso_KEPE.pdf used on input line 253.
+(pdftex.def)             Requested size: 460.72012pt x 289.07928pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--255
+[][]
+ []
+
+[76 <./Chapter4/img/meso_GeoAgeo.pdf>]
+Overfull \hbox (4.0957pt too wide) in paragraph at lines 260--261
+\OT1/cmr/m/n/12 Helmholtz de-com-po-si-tion of the full ve-loc-ity fields (see 
+Fig-ure [][]4.31[][]). As seen, the geostrophic
+ []
+
+<Chapter4/img/totalGeoAgeo.pdf, id=2892, 460.72125pt x 289.08pt>
+File: Chapter4/img/totalGeoAgeo.pdf Graphic file (type pdf)
+
+<use Chapter4/img/totalGeoAgeo.pdf>
+Package pdftex.def Info: Chapter4/img/totalGeoAgeo.pdf used on input line 263.
+(pdftex.def)             Requested size: 460.72012pt x 289.07928pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--265
+[][]
+ []
+
+[77 <./Chapter4/img/meso_KEPE.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+
+ []
+
+<Chapter4/img/meso_RKEDKE.pdf, id=2901, 460.72125pt x 289.08pt>
+File: Chapter4/img/meso_RKEDKE.pdf Graphic file (type pdf)
+
+<use Chapter4/img/meso_RKEDKE.pdf>
+Package pdftex.def Info: Chapter4/img/meso_RKEDKE.pdf used on input line 272.
+(pdftex.def)             Requested size: 460.72012pt x 289.07928pt.
+ [78 <./Chapter4/img/totalGeoAgeo.pdf>])
+(./Chapter5/Ch5.tex [79 <./Chapter4/img/meso_RKEDKE.pdf>]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+[80
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Overfull \hbox (1.63646pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/12 The en-ergy spec-tra of the ver-ti-cal modes ex-hibit a chang-i
+ng be-hav-ior in both the geostrophic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+[81]
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[84]
+Overfull \hbox (4.22618pt too wide) in paragraph at lines 59--59
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+
+ []
+
+[85]
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+[86] [87]
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+[88]
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+) [89] (./MattAmbacherMMathThesis.bbl [90
+
+
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ê in font cmr12!
+ [91] [92]) [93]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
+
+(./MattAmbacherMMathThesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 271.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 271.
+Package rerunfilecheck Info: File `MattAmbacherMMathThesis.out' has not changed
+.
+(rerunfilecheck)             Checksum: 1220551F0F2221BC5C48C3AA79AB76BB;3019.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 271.
+ ) 
+Here is how much of TeX's memory you used:
+ 17569 strings out of 493042
+ 326568 string characters out of 6134661
+ 405663 words of memory out of 5000000
+ 20355 multiletter control sequences out of 15000+600000
+ 14232 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,17n,54p,1859b,715s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on MattAmbacherMMathThesis.pdf (106 pages, 10163738 bytes).
+PDF statistics:
+ 3212 PDF objects out of 3580 (max. 8388607)
+ 2358 compressed objects within 24 object streams
+ 368 named destinations out of 1000 (max. 500000)
+ 548 words of extra memory for PDF output out of 10000 (max. 10000000)
+
